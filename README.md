@@ -1,0 +1,2 @@
+# SCRIPTSVARIOS
+Scripts de automatizacion
